@@ -1,6 +1,7 @@
 site_name: MapleIR
 theme:
   name: simple-blog
+  logo: assets/logo.png
   components:
     title: false
     footer: false
