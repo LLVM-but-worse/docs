@@ -1,3 +1,7 @@
-site_name: My Docs
+site_name: MapleIR
 theme:
   name: simple-blog
+  components:
+    title: false
+    footer: false
+    sidebar: true
