@@ -26,4 +26,5 @@ jobs:
           restore-keys: |
             mkdocs-simple-blog-
       - run: pip install mkdocs-simple-blog 
+      - run: echo "mapleir.org" > CNAME
       - run: mkdocs gh-deploy --force
